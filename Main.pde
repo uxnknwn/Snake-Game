@@ -1,3 +1,5 @@
+// Snake Game - Java-based Processing project
+
 Snake snake;
 Apple apple;
 Game game;
