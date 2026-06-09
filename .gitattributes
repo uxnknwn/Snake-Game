@@ -1,2 +1,4 @@
-*.java linguist-language=Java
 *.pde linguist-language=Java
+README.md linguist-documentation
+Assets/** linguist-vendored
+sketch.properties linguist-vendored
