@@ -6,4 +6,4 @@ Controls: arrow keys or `WASD`.
 
 Programmed by Dale Harris IV.
 
-https://wwww.daledevs.com
+https://daledevs.com
